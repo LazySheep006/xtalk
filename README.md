@@ -1,5 +1,5 @@
 # X-Talk
-<img width="460" height="421" alt="logo" src="https://github.com/user-attachments/assets/d57430f3-e1d7-4678-b039-3e06e40bcad2" />
+<img width="460" height="249" alt="xtalk-logo-new" src="https://github.com/user-attachments/assets/4e252ce8-7450-4335-b86a-4b9b26200792" />
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://xtalk.sjtuxlance.com/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
