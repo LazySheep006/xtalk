@@ -1,6 +1,6 @@
 Thanks for considering contributing! 🎉
 
-Xtalk is currently in an early **prototype stage** and is under active and rapid development.  
+X-Talk is currently in an early **prototype stage** and is under active and rapid development.  
 APIs, internal abstractions, and module boundaries may change as the project evolves.
 
 Despite this, **contributions are highly welcome**.
